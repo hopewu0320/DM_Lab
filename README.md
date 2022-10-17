@@ -1,2 +1,2 @@
 # DM2022-Lab1
-DM_HW1_2 and DM2022-Lab1-Master are homeworks
+DM_HW1_2.ipynb and DM2022-Lab1-Master.ipynb are homeworks
